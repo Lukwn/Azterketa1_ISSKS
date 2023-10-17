@@ -1,6 +1,5 @@
 import zipfile
 import hashlib
-# GPG PRUEBA
 # Function to calculate the hash of a file
 def md5Kalkulatu(file_path):
     hasher = hashlib.md5()
